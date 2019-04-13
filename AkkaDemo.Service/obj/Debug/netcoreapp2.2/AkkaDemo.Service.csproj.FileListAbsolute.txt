@@ -1,0 +1,15 @@
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\bin\Debug\netcoreapp2.2\AkkaDemo.Service.deps.json
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\bin\Debug\netcoreapp2.2\AkkaDemo.Service.runtimeconfig.json
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\bin\Debug\netcoreapp2.2\AkkaDemo.Service.runtimeconfig.dev.json
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\bin\Debug\netcoreapp2.2\AkkaDemo.Service.dll
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\bin\Debug\netcoreapp2.2\AkkaDemo.Service.pdb
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\bin\Debug\netcoreapp2.2\AkkaNetDemo.Actors.dll
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\bin\Debug\netcoreapp2.2\AkkaNetDemo.Models.dll
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\bin\Debug\netcoreapp2.2\AkkaNetDemo.Actors.pdb
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\bin\Debug\netcoreapp2.2\AkkaNetDemo.Models.pdb
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\obj\Debug\netcoreapp2.2\AkkaDemo.Service.csprojResolveAssemblyReference.cache
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\obj\Debug\netcoreapp2.2\AkkaDemo.Service.csproj.CoreCompileInputs.cache
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\obj\Debug\netcoreapp2.2\AkkaDemo.Service.AssemblyInfoInputs.cache
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\obj\Debug\netcoreapp2.2\AkkaDemo.Service.AssemblyInfo.cs
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\obj\Debug\netcoreapp2.2\AkkaDemo.Service.dll
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaDemo.Service\obj\Debug\netcoreapp2.2\AkkaDemo.Service.pdb

@@ -1,0 +1,11 @@
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\bin\Debug\netcoreapp2.2\AkkaNetDemo.Actors.deps.json
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\bin\Debug\netcoreapp2.2\AkkaNetDemo.Actors.dll
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\bin\Debug\netcoreapp2.2\AkkaNetDemo.Actors.pdb
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\obj\Debug\netcoreapp2.2\AkkaNetDemo.Actors.csprojResolveAssemblyReference.cache
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\obj\Debug\netcoreapp2.2\AkkaNetDemo.Actors.csproj.CoreCompileInputs.cache
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\obj\Debug\netcoreapp2.2\AkkaNetDemo.Actors.AssemblyInfoInputs.cache
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\obj\Debug\netcoreapp2.2\AkkaNetDemo.Actors.AssemblyInfo.cs
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\obj\Debug\netcoreapp2.2\AkkaNetDemo.Actors.dll
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\obj\Debug\netcoreapp2.2\AkkaNetDemo.Actors.pdb
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\bin\Debug\netcoreapp2.2\AkkaNetDemo.Models.dll
+C:\Users\mctoc\source\repos\AkkaNetDemo.Models\AkkaNetDemo.Actors\bin\Debug\netcoreapp2.2\AkkaNetDemo.Models.pdb
